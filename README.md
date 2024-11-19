@@ -10,4 +10,4 @@ Projeto de classificação de animais utilizando técnicas de machine learning p
 - Kesava Yasmim Silva de Menezes
 - Luan Fernandes Alves
 - João Marcos Rodrigues da Silva
-- Vinicius Moreira Maia
+
